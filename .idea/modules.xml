@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/05-arbeitspakete-BenjaminEcker.iml" filepath="$PROJECT_DIR$/.idea/05-arbeitspakete-BenjaminEcker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websockets-quickstart/websockets-quickstart.iml" filepath="$PROJECT_DIR$/websockets-quickstart/websockets-quickstart.iml" />
     </modules>
   </component>
 </project>
